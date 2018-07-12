@@ -1,5 +1,5 @@
 x=10
-y=80
+y=100
 z=x+y
 print z
 print "The sum is"
